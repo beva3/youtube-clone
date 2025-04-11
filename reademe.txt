@@ -24,3 +24,4 @@ youtube-clone/
 
 
 ## explanation CHECK THIS LIKNK: https://youtu.be/RniGO9Ek6yY
+version bootstrap : https://github.com/beva3/YOUTUBE-CLON.git
